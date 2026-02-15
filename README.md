@@ -22,7 +22,15 @@ fork modernizes the codebase for current macOS versions.
 - SAUCE record reading
 - Advanced settings: custom BIN columns, iCE colors, custom bits
 
-## Requirements
+## Installation
+
+### Homebrew
+
+```bash
+brew install --cask vigo/ascension/ascension
+```
+
+### Requirements (building from source)
 
 - macOS 13.0 (Ventura) or later
 - Xcode 14+ for building from source
